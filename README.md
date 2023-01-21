@@ -33,6 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os Hábitos.
 
+- [Visite o projeto online] (https://santosmarcos95.github.io/habits/)
+
 
 ## 🔖 Layout
 
